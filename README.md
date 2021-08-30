@@ -1,6 +1,6 @@
 
 <h1> 👋¡Hola! Soy Juan Ignacio Crego . </h1>
-<img align = 'right' src = "https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif" width = "230">
+
 
 <h2> 👀 Acerca de mí </h2>
 
@@ -15,8 +15,6 @@
 
 
 <h3> 📚 Conocimientos </h3>
-<img align = 'right' src = "https://media.giphy.com/media/Yr6KlhMdKRnM6CY40W/giphy.gif" width = "230">
-<div>
   
 - 💻 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
