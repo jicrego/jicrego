@@ -5,7 +5,7 @@
 <h2> 👀 Acerca de mí </h2>
 
 - 🎓 Estudio Licenciatura en Sistemas de Informacion.
-- 📊 En el 2013 comencé la carrera de Licenciatura en Sistemas de Informacion. 
+- 📊 En el 2013 comencé la carrera de Licenciatura en Sistemas de Informacion.
 - 💼 Actualmente estoy en búsqueda laboral activa.
 - 🌎 Sé **Ingles** (B1) 
 <br/>
