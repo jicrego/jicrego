@@ -12,8 +12,6 @@
 <br/>
 <br/>
 
-
-
 <h3> 📚 Conocimientos </h3>
   
 - 💻 
